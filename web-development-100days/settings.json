@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.port": 5500,
+    "json.schemas": [
+        
+    ],
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": ""
+}
